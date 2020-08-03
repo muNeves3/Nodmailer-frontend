@@ -1,40 +1,27 @@
-.App {
+.wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-
-  background-color: #f3f3f3f3;
 }
 
-.Email_inputs {
-  background: #333333;
-
-  color: white;
-
-  width: 100%;
-  max-width: 250px;
-  height: 100%;
-  max-height: 200px;
-
-  border-radius: 6px;
-}
-
-.Email_inputs button {
-  color: #333333;
-  border-radius: 5px;
-  padding: 2px 6px;
-}
-
-.Email input {
-  width: 100%;
-  border-radius: 3px;
-  border: none;
-}
-
-.Email {
+.App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 230px;
+  width: 100%;
+  max-width: 200px;
+  background-color: #1111;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+.App button {
+  border: none;
+  background-color: rgb(175, 174, 174);
+  padding: 4px;
+  border-radius: 8px;
+  cursor: pointer;
 }
