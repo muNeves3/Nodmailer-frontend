@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="./src/Assets/Sreenshot_4.png"/>
+    <img src="./src/Assets/Screenshot_4.png"/>
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
