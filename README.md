@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Getting Started :computer:
 
 ```sh
-git clone https://github.com/muNeves3/Netflix-clone
+git clone https://github.com/muNeves3/Nodemailer-frontend.git
 ```
 
 ## Install
