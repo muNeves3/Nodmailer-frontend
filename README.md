@@ -1,6 +1,6 @@
 <a href="https://ecstatic-thompson-3043cf.netlify.app/">Try it!</a>
 
-p align="center">
+<p align="center">
 <img src="./src/Assets/Screenshot_4.png"/>
 
 </p>
